@@ -41,7 +41,7 @@ Junior Python разработчик с практикой коммерческ�
 
 **Стек**: Python, Flask, REST API, GigaChat AI, WooCommerce API, PostgreSQL, SQLAlchemy, SSE, in-memory кэширование
 
-**Ссылка**: [GitHub Repo](https://github.com/Skifmail/poizon-sync-service)
+**Ссылка**: [GitHub Repo]([https://github.com/Skifmail/poizon-sync-service](https://github.com/Skifmail/SEO-Poizon-Wordpress))
 
 ---
 
