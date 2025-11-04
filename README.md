@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Skifmail/Skifmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Привет! 👋 Я Александр Шатайло
 
 **Junior Python Developer** | Automation | Telegram Bots | Web Integration | AI
