@@ -101,7 +101,7 @@ Junior Python разработчик с практикой коммерческ�
 ## 📞 Контакты
 
 📧 **Email**: aleksandr.shataylo@mail.ru  
-📱 **Telegram**: [@aleksandrshataylo](https://t.me/@skifmail) 
+📱 **Telegram**: (https://t.me/@skifmail) 
 💼 **GitHub**: [@Skifmail](https://github.com/Skifmail)  
 📍 **Локация**: Сочи
 
