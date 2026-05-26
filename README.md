@@ -1,119 +1,62 @@
-Александр Шатайло
+# Aleksandr Shataylo
 
-**Junior Python Developer** | Automation | Telegram Bots | Web Integration | AI
-
----
-
-## 🎯 Обо мне
-
-Junior Python разработчик с практикой коммерческих проектов в области:
-- 🤖 **Telegram-боты**: асинхронная обработка, FSM, интеграция с БД
-- 🌐 **Веб-интеграции**: REST API, синхронизация систем, дропшиппинг-инструменты
-- 🚀 **Автоматизация**: мониторинг данных, планирование задач, уведомления
-- 🧠 **AI-интеграции**: работа с LLM (GigaChat), обработка естественного языка
-
-Создаю полезные сервисы, которые экономят бизнесу десятки часов работы в месяц. Люблю сложные задачи интеграции и асинхронную разработку.
+`Python Developer · Automation · Telegram Bots · AI Integrations`
 
 ---
 
-## 💻 Технологический стек
+### About
 
-**Язык**: Python 3.8+  
-**Фреймворки**: Django, Flask, FastAPI, aiogram  
-**БД & ORM**: PostgreSQL, SQLAlchemy, asyncpg  
-**Инструменты**: Docker, Git, Linux, Celery, APScheduler  
-**API**: REST API, Telegram Bot API, WooCommerce API, GigaChat  
-**Паттерны**: asyncio, async/await, FSM, SSE, webhook/polling  
-**Тестирование**: Pytest  
+Junior Python developer focused on backend automation, Telegram bot architecture, and API integrations.
+Build production-ready services that replace manual workflows — scheduling, monitoring, data sync.
+Comfortable with async Python, PostgreSQL, and shipping real things that run in prod.
 
 ---
 
-## 🏆 Ключевые проекты
+### Stack
 
-### 1️⃣ Poizon Sync — Веб-сервис синхронизации товаров
-**Описание**: Автоматизирует загрузку товаров из китайского маркетплейса Poizon в WooCommerce с AI-генерацией SEO-описаний
-
-**Результаты**:
-- ⚡ Экономия **40 часов/месяц** на ручное наполнение каталога
-- 📦 Загрузка 50 товаров за 5-7 минут (вместо 1 часа ручной работы)
-- 🤖 Интеграция 3 внешних API (Poizon, WooCommerce, GigaChat)
-- 📊 Поддержка 10000+ товаров с полными данными и изображениями
-
-**Стек**: Python, Flask, REST API, GigaChat AI, WooCommerce API, PostgreSQL, SQLAlchemy, SSE, in-memory кэширование
-
-**Ссылка**: [GitHub Repo](https://github.com/Skifmail/SEO-Poizon-Wordpress)
+```
+Python 3.8+   aiogram 3.x   FastAPI   Flask   Django
+PostgreSQL     SQLAlchemy    asyncpg   Celery  APScheduler
+Docker         Linux         REST API  Pytest  FSM   webhook/polling
+```
 
 ---
 
-### 2️⃣ Психолог Бот — Telegram-бот записи к психологу
-**Описание**: Автоматизирует запись клиентов к психологу с системой напоминаний, управлением расписанием и уведомлениями
+### Projects
 
-**Результаты**:
-- 📱 Запись 24/7 без звонков и мессенджеров
-- ⏰ Автоматические напоминания (за 24 часа и в день приёма)
-- ⚙️ Полная автоматизация административных задач психолога
-- 🎯 Поддержка неограниченного количества клиентов
+**[tennisfan](https://github.com/Skifmail/TennisFan)** · [tennisfan.ru](https://www.tennisfan.ru)
 
-**Стек**: Python 3.12, aiogram 3.4, PostgreSQL, SQLAlchemy, APScheduler, asyncpg, FSM
+Tennis news and community platform. Full-stack Django application with news aggregation, tournament coverage, and user content. Deployed with Docker.
 
-**Ссылка**: [GitHub Repo](https://github.com/Skifmail/PsychologistShatayloBot)
+`Django` `PostgreSQL` `Docker` `Celery` `Python · HTML · CSS · JS`
 
 ---
 
-### 3️⃣ WB Position Bot — Мониторинг позиций на Wildberries
-**Описание**: Автоматизирует отслеживание ранжирования товаров на маркетплейсе Wildberries с уведомлениями о падении позиций
+**[my-site](https://github.com/Skifmail/MySite)** · [aleks-shataylo.ru](https://www.aleks-shataylo.ru)
 
-**Результаты**:
-- 🔍 Мониторинг каждые 10 минут без ручного контроля
-- 🌍 Поддержка 85 федеральных округов России
-- 📲 Мгновенные уведомления при падении ниже порога
-- 🚀 Асинхронная архитектура, готов к деплою на Render
+Personal developer portfolio site. FastAPI backend with a contact form email forwarder. Clean HTML/CSS/JS frontend, deployed on a VPS.
 
-**Стек**: Python 3.11, aiogram 3.x, PostgreSQL, SQLAlchemy, APScheduler, asyncio, webhook/polling
-
-**Ссылка**: [GitHub Repo](https://github.com/Skifmail/WbPositionBot)
+`FastAPI` `HTML · CSS · JS` `email forwarder · nginx deploy`
 
 ---
 
-## 📚 Образование
+**[iptattoo — landing page](https://github.com/Skifmail/iptattoo)** · [live](https://skifmail.github.io/iptattoo/)
 
-- **Skillbox** — Курс "Python-разработчик" (2025-2025)
-  - Flask, Django, Linux, Docker, REST API, Pytest, SQL, PostgreSQL, asyncio, SQLAlchemy, Telegram Bot API
-- **Донецкий национальный университет** — Правоведение (2007-2013)
+Landing page for a tattoo studio in Krasnodar. Static site on GitHub Pages. Rated 4.5 on Yandex Maps, "Good Place 2026" badge.
 
----
-
-## 🗣️ Языки
-
-- 🇷🇺 Русский — родной
-- 🇬🇧 Английский — intermediate (читаю документацию, понимаю беседы, выражаю мысли)
+`HTML · CSS · JS` `GitHub Pages` `4.5 ★ Yandex Maps`
 
 ---
 
-## 🎯 Направления развития
+### Contact
 
-Интересуют: **Нейросети & LLM**, **Тестирование (Unit/Integration/E2E)**, **Data Science**, **Автоматизация**, **Веб-разработка**
-
-**Цель на 2-3 года**: Senior Python Developer в продуктовой компании
-
----
-
-## 📞 Контакты
-
-📧 **Email**: aleksandr.shataylo@mail.ru  
-📱 **Telegram**: (https://t.me/@skifmail) 
-💼 **GitHub**: [@Skifmail](https://github.com/Skifmail)  
-📍 **Локация**: Сочи
+| | |
+|---|---|
+| tg | [@skifmail](https://t.me/@skifmail) |
+| mail | aleksandr.shataylo@mail.ru |
+| github | [github.com/Skifmail](https://github.com/Skifmail) |
+| location | Sochi, Russia |
 
 ---
 
-
-
-## 💡 Что я здесь создаю
-
-Открытые проекты на Python, которые решают реальные бизнес-задачи. Стараюсь придерживаться best practices: чистый код, документация, тесты и понятная архитектура.
-
-
----
-
-**Спасибо, что заглянули! 🙏 Буду рад сотрудничеству и интересным проектам.**
+`open to work` `python` `backend` `bots` `automation`
